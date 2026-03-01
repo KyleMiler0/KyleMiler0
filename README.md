@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kyle Miler, studying in Beijing Institute of Technology, majoring Physics.
+
+- 🌱Leaning experiences:
+  - In 2025, I systematically studied Python, including crawler and Flask structure.
+  - In the autumn semester in 2025, I took a MySQL database course and AI algorithm course.
+
+- Skills:
+  - Python: crawler(request spoofing, proxy pools,asynchronous crawling, ...) and anti-crawler, Flask structure, ...
+  - front-end: HTML+CSS+JavaScript
+  - back-end: MySQL database(design, achieve, hyper select, ...)
+ 
+- Projects: I am just a _freshman_🤔
+
+  Now I'm focusing on the review materials of the AI and computer science course, expecting others to benefit from it.
