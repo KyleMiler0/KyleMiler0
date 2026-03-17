@@ -24,9 +24,9 @@ I'm Kyle Miler, studying in Beijing Institute of Technology, majoring Physics.
 - Skills:
   - Python: crawler(asynchronous requests, data deduplication, ...) and anti-crawler, Flask structure, ...
   - front-end: HTML+CSS+JavaScript
-  - back-end: MySQL database(design, achieve, hyper select, ...)
+  - back-end: MySQL database(design, coding, hyper select, ...)
   - 📚continuously updating ...
  
-- Projects: I am just a _freshman_🤔
+- Projects: I am just a *freshman*🤔
 
 🔭Now I'm focusing on the review materials of the AI and computer science course, expecting others to benefit from it.
