@@ -32,7 +32,9 @@ I'm Kyle Miler, studying in Beijing Institute of Technology, majoring Physics.
 - **back-end**: MySQL database(design, coding, hyper select, ...)
 - 📚continuously updating ...
  
-### ~~Naiive~~ projects: ~~I am just a *freshman*🤔~~ I'm not a freshman, maybe?🤔
+### ~~Naive~~ projects: 
+
+~~I am just a *freshman*🤔~~ I'm not a freshman, maybe?🤔
 
 - Aggregated Printing Assistant (cooperation, end-of-term assignment)
 
